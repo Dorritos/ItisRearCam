@@ -1,0 +1,4 @@
+include ':features:rearCam_api'
+include ':features:rearCam'
+include ':app'
+rootProject.name = "ItisRearCam"
